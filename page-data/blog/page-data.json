@@ -1,5 +1,5 @@
 {
     "componentChunkName": "component---src-pages-blog-js",
     "path": "/blog/",
-    "result": {"data":{"allFile":{"nodes":[{"name":"post-1"},{"name":"post-2"}]}},"pageContext":{}},
+    "result": {"data":{"allFile":{"nodes":[{"name":"post-2"},{"name":"post-1"}]}},"pageContext":{}},
     "staticQueryHashes": ["3159585216"]}
